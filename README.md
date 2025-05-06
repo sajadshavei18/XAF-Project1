@@ -1,5 +1,5 @@
 <div dir="rtl" style="text-align: right;">
-  <h1>Big project Asp.net Core</h1>
+  <h1>Easy project XAF19.1</h1>
 <p>
   Items used in the project : 
   DevExpress + XAF 19.1 + C# => Windows and Web Project
